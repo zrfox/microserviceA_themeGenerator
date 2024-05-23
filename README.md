@@ -26,3 +26,5 @@ json_response = json.loads(response)
 6. Access the objects values
 Example: 
 json_response.get('themeURL') or json_response.get('colors')
+
+![image](https://github.com/zrfox/microserviceA_themeGenerator/assets/120997137/f9d74b5f-523e-4495-b094-ebe1687f5996)
